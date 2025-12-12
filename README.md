@@ -85,4 +85,7 @@
   </tr>
 </table>
 
-![Pac-Man Contribution Graph](https://raw.githubusercontent.com/J0nT0/pacman-contribution-graph/main/pacman-grid-dark.svg)
+![Pac-Man Animation](pacman.gif)
+
+
+
